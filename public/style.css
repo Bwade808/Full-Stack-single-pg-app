@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(94, 90, 90);
+}
+
+.main, .search {
+    margin: auto;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container {
+    margin: 35px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: azure;
+    padding-bottom: 20px;
+}
+
+.carList {
+    display: block;
+    text-align: center;
+    border: 5px solid black;
+    width: 200px;
+    height: 600px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.add_vehicle {
+    display:block;
+    float: left; 
+    padding-left: 20px;
+    padding-top: 30px;
+}  
+.add_model {
+    float: right;
+}
+
